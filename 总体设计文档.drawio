@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-09-25T04:26:33.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="bgHH5wxvklGmR3GJB9dh" version="21.7.5" type="device">
+<mxfile host="Electron" modified="2023-09-27T09:52:43.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="CxRI-P38Ae3p1i9QUkZE" version="21.7.5" type="device">
   <diagram name="第 1 页" id="2vllRe85jsxUp-EH1yW8">
     <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
         <mxCell id="00xil3Elnf28Sll-ROiN-2" value="V_LineSYNC_xx:&lt;br&gt;&lt;br&gt;软同步信号，调整每颗芯片的相位，确保帧同步" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="390" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q-ixJyWogeXthEJVm1jE-1" value="V_LineSYNC:&lt;br&gt;&lt;br&gt;总体同步信号-编码" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Q-ixJyWogeXthEJVm1jE-1" value="V_LineSYNC:&lt;br&gt;&lt;br&gt;总体同步信号-编码" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
