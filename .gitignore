@@ -1,0 +1,5 @@
+# Ignore any file or directory with a dollar sign in its name
+*$*
+# Common temporary Office files that start with ~$
+~$*
+
